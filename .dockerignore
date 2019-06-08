@@ -1,0 +1,28 @@
+# Maven output directories
+/**/target/
+
+# Netbeans project config
+/**/nbproject
+/**/nbactions.xml
+/**/nb-configuration.xml
+
+# IntelliJ project config
+*.iml
+/**/.idea/
+
+# Mac files
+.DS_Store
+/config/*.pub
+/config/*.key
+
+.vscode
+.DS_Store
+
+.gitattributes
+.gitignore
+.github
+.git
+
+README.md
+TesseraLogo.png
+.travis.yml
